@@ -1,0 +1,3 @@
+Novo texto
+Com fechamento automático usando o 
+with
